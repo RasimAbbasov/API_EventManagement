@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fTyXKRgA76R6AIWAxhbr6iMUh1Z24P17feGHQ9cK8/M=",
+  "Source": "API_EventManagement",
+  "BasePath": "_content/API_EventManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
