@@ -7,6 +7,7 @@ namespace API_EventManagement.Data
     {
         public EventAppDbContext(DbContextOptions<EventAppDbContext> options) : base(options)
         {
+
         }
 
         public DbSet<Event> Events { get; set; }

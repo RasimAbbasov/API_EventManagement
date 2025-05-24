@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\data\\eventappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:data\\eventappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\controllers\\organizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:controllers\\organizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\data\\configurations\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:data\\configurations\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\data\\configurations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:data\\configurations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\models\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:models\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\validators\\events\\eventcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:validators\\events\\eventcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\dtos\\events\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:dtos\\events\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\data\\eventappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:data\\eventappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\mappers\\eventmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:mappers\\eventmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\validators\\organizers\\organizercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:validators\\organizers\\organizercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\dtos\\events\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:dtos\\events\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\dtos\\tickets\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:dtos\\tickets\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\dtos\\organizers\\organizercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:dtos\\organizers\\organizercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,12 +79,12 @@
       "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:data\\configurations\\organizerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\dtos\\organizers\\organizerreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:dtos\\organizers\\organizerreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|c:\\users\\rasim\\source\\repos\\api eventmanagement\\api_eventmanagement\\dtos\\events\\eventreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBBDC33-1104-4C20-9AC3-4E9035CCC10C}|API_EventManagement.csproj|solutionrelative:dtos\\events\\eventreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +94,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TicketConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Data\\Configurations\\TicketConfiguration.cs",
-              "RelativeDocumentMoniker": "Data\\Configurations\\TicketConfiguration.cs",
-              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Data\\Configurations\\TicketConfiguration.cs",
-              "RelativeToolTip": "Data\\Configurations\\TicketConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABVAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwB4AAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:47:11.526Z",
+              "WhenOpened": "2025-05-24T12:37:50.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
+              "Title": "FileUploadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Events\\FileUploadDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Events\\FileUploadDto.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Events\\FileUploadDto.cs",
+              "RelativeToolTip": "Dtos\\Events\\FileUploadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:54:39.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Helpers\\FileManager.cs",
+              "RelativeDocumentMoniker": "Helpers\\FileManager.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Helpers\\FileManager.cs",
+              "RelativeToolTip": "Helpers\\FileManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:53:37.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Controllers\\TicketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:50:28.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TicketCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Tickets\\TicketCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Tickets\\TicketCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Tickets\\TicketCreateDto.cs",
+              "RelativeToolTip": "Dtos\\Tickets\\TicketCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:10:45.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:09:56.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Validators\\Events\\EventCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\Events\\EventCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Validators\\Events\\EventCreateDtoValidator.cs",
+              "RelativeToolTip": "Validators\\Events\\EventCreateDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:06:53.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrganizerCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Validators\\Organizers\\OrganizerCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\Organizers\\OrganizerCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Validators\\Organizers\\OrganizerCreateDtoValidator.cs",
+              "RelativeToolTip": "Validators\\Organizers\\OrganizerCreateDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:01:09.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Mappers\\EventMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\EventMapper.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Mappers\\EventMapper.cs",
+              "RelativeToolTip": "Mappers\\EventMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:31:44.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Data\\EventAppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EventAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Data\\EventAppDbContext.cs",
+              "RelativeToolTip": "Data\\EventAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:13:13.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "OrganizerConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Data\\Configurations\\OrganizerConfiguration.cs",
               "RelativeDocumentMoniker": "Data\\Configurations\\OrganizerConfiguration.cs",
@@ -79,124 +235,133 @@
               "RelativeToolTip": "Data\\Configurations\\OrganizerConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:41:47.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T16:01:50.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Controllers\\EventController.cs",
-              "RelativeToolTip": "Controllers\\EventController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:39:42.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EventConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Data\\Configurations\\EventConfiguration.cs",
               "RelativeDocumentMoniker": "Data\\Configurations\\EventConfiguration.cs",
               "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Data\\Configurations\\EventConfiguration.cs",
               "RelativeToolTip": "Data\\Configurations\\EventConfiguration.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:29:42.261Z",
+              "WhenOpened": "2025-05-23T15:59:45.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T14:24:55.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventAppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Data\\EventAppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\EventAppDbContext.cs",
-              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Data\\EventAppDbContext.cs",
-              "RelativeToolTip": "Data\\EventAppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:13:20.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:04:29.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\Ticket.cs",
-              "RelativeToolTip": "Models\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:00:36.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Organizer.cs",
-              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\Organizer.cs",
-              "RelativeDocumentMoniker": "Models\\Organizer.cs",
-              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\Organizer.cs",
-              "RelativeToolTip": "Models\\Organizer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:00:26.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\Event.cs",
               "RelativeDocumentMoniker": "Models\\Event.cs",
               "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\Event.cs",
               "RelativeToolTip": "Models\\Event.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:00:12.234Z",
+              "WhenOpened": "2025-05-23T15:57:53.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "Organizer.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\Organizer.cs",
+              "RelativeDocumentMoniker": "Models\\Organizer.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Models\\Organizer.cs",
+              "RelativeToolTip": "Models\\Organizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T13:57:57.259Z",
+              "WhenOpened": "2025-05-23T15:57:51.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Events\\EventReturnDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Events\\EventReturnDto.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Events\\EventReturnDto.cs",
+              "RelativeToolTip": "Dtos\\Events\\EventReturnDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:11:05.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrganizerReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Organizers\\OrganizerReturnDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Organizers\\OrganizerReturnDto.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Organizers\\OrganizerReturnDto.cs",
+              "RelativeToolTip": "Dtos\\Organizers\\OrganizerReturnDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:26:08.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrganizerCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Organizers\\OrganizerCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Organizers\\OrganizerCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Organizers\\OrganizerCreateDto.cs",
+              "RelativeToolTip": "Dtos\\Organizers\\OrganizerCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:56:03.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:55:05.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Events\\EventCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Events\\EventCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Dtos\\Events\\EventCreateDto.cs",
+              "RelativeToolTip": "Dtos\\Events\\EventCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:55:03.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Profiles\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Profiles\\MapperProfile.cs",
+              "RelativeToolTip": "Profiles\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:24:33.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrganizerController.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Controllers\\OrganizerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrganizerController.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\Controllers\\OrganizerController.cs",
+              "RelativeToolTip": "Controllers\\OrganizerController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwD4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:24:26.858Z",
               "EditorCaption": ""
             }
           ]

@@ -135,3 +135,12 @@ C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\obj\Debug\ne
 C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\obj\Debug\net8.0\API_EventManagement.pdb
 C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\obj\Debug\net8.0\API_EventManagement.genruntimeconfig.cache
 C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\obj\Debug\net8.0\ref\API_EventManagement.dll
+C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\API_EventManagement.staticwebassets.runtime.json

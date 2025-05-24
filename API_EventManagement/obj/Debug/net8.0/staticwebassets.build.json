@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "fTyXKRgA76R6AIWAxhbr6iMUh1Z24P17feGHQ9cK8/M=",
+  "Hash": "8wS2ItZ+ECl4/1AcqEr4R5nXyOCaCbLwddK7M6XycWI=",
   "Source": "API_EventManagement",
   "BasePath": "_content/API_EventManagement",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API_EventManagement\\wwwroot",
+      "Source": "API_EventManagement",
+      "ContentRoot": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\wwwroot\\",
+      "BasePath": "_content/API_EventManagement",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

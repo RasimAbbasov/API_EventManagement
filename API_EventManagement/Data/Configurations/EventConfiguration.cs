@@ -15,9 +15,8 @@ namespace API_EventManagement.Data.Configurations
                 .HasForeignKey(e => e.OrganizerId);
             builder.Property(e => e.Title).IsRequired().HasMaxLength(150);
             builder.Property(e => e.Description).IsRequired().HasMaxLength(500);
-            builder.Property(e => e.Date).IsRequired();
+            builder.Property(e => e.Date).IsRequired().HasDefaultValue(DateTime.Now);
             builder.Property(e => e.Location).IsRequired().HasMaxLength(200);
-            builder.Property(e => e.BannerImageUrl).IsRequired();
             builder.Property(e => e.OrganizerId).IsRequired();
         }
     }
