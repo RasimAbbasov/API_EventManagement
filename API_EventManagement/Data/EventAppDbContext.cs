@@ -1,9 +1,10 @@
 ﻿using API_EventManagement.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace API_EventManagement.Data
 {
-    public class EventAppDbContext:DbContext
+    public class EventAppDbContext:IdentityDbContext<AppUser>
     {
         public EventAppDbContext(DbContextOptions<EventAppDbContext> options) : base(options)
         {

@@ -2,6 +2,8 @@
 using API_EventManagement.Models;
 using API_EventManagement.Dtos.Organizers;
 using API_EventManagement.Dtos.Events;
+using API_EventManagement.Dtos.Users;
+using API_EventManagement.Dtos.Tickets;
 
 namespace API_EventManagement.Profiles
 {
@@ -25,6 +27,8 @@ namespace API_EventManagement.Profiles
             CreateMap<Event, EventsinOrganizerReturnDto>();
             CreateMap<Organizer,OrganizerInEventReturnDto>();
             CreateMap<OrganizerCreateDto, Organizer>();
+            CreateMap<RegisterDto, AppUser>();
+            CreateMap<TicketCreateDto, Ticket>();
         }
     }
 }

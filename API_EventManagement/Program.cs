@@ -1,8 +1,10 @@
 using API_EventManagement.Data;
+using API_EventManagement.Models;
 using API_EventManagement.Profiles;
 using API_EventManagement.Validators.Events;
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -28,7 +30,23 @@ builder.Services.AddAutoMapper(opt=>
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddFluentValidationClientsideAdapters();
-builder.Services.AddValidatorsFromAssemblyContaining<EventCreateDtoValidator>();
+builder.Services.AddValidatorsFromAssemblyContaining<EventCreateDtoValidator>(); 
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddIdentity<AppUser, IdentityRole>(opt=>
+{
+    opt.Password.RequireDigit = true;
+    opt.Password.RequiredLength = 8;
+    opt.Password.RequireLowercase = true;
+    opt.Password.RequireUppercase = true;
+
+    //opt.SignIn.RequireConfirmedEmail = true;
+    opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+    opt.Lockout.MaxFailedAccessAttempts = 5;
+    opt.Lockout.AllowedForNewUsers = true;  
+}).AddEntityFrameworkStores<EventAppDbContext>().AddDefaultTokenProviders();
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -1,12 +1,13 @@
 ﻿using API_EventManagement.Data;
+using API_EventManagement.Dtos.Tickets;
+using API_EventManagement.Models;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API_EventManagement.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class TicketController(EventAppDbContext eventAppDbContext) : ControllerBase
+    public class TicketController(EventAppDbContext eventAppDbContext,IMapper mapper) : BaseController
     {
         [HttpGet]
         public IActionResult Get()
@@ -24,6 +25,18 @@ namespace API_EventManagement.Controllers
                 return NotFound();
             }
             return Ok(ticketitem);
+        }
+        [HttpPost] 
+        public async  Task<IActionResult> Create([FromBody] TicketCreateDto ticketCreateDto)
+        {
+            if (eventAppDbContext.Tickets.Any(c => c.TicketType == ticketCreateDto.TicketType && c.EventId == ticketCreateDto.EventId))
+            {
+                return Conflict();
+            }
+            var ticketitem = mapper.Map<Ticket>(ticketCreateDto);
+            eventAppDbContext.Tickets.Add(ticketitem);
+            eventAppDbContext.SaveChanges();
+            return Created();
         }
 
     }

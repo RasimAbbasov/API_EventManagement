@@ -9,9 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API_EventManagement.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class EventController(EventAppDbContext eventAppDbContext,IMapper mapper) : ControllerBase
+    public class EventController(EventAppDbContext eventAppDbContext,IMapper mapper) : BaseController
     {
         [HttpGet]
         public IActionResult Get()
@@ -61,7 +59,7 @@ namespace API_EventManagement.Controllers
             eventItem.Title = eventUpdateDto.Title;
             eventItem.Description = eventUpdateDto.Description;
             eventItem.Date = eventUpdateDto.Date;
-            eventItem.Location = eventUpdateDto.Location;
+            eventItem.Location = eventUpdateDto.Location; 
             eventItem.BannerImageUrl = eventUpdateDto.BannerImageUrl;
 
             eventAppDbContext.SaveChanges();

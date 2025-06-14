@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8wS2ItZ+ECl4/1AcqEr4R5nXyOCaCbLwddK7M6XycWI=",
+  "Hash": "OyYMZdLhbQXjLksk3nZLIhKPuYkGqWiCURbD2kfrP7A=",
   "Source": "API_EventManagement",
   "BasePath": "_content/API_EventManagement",
   "Mode": "Default",
@@ -15,5 +15,25 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\wwwroot\\uploads\\6958762c-78af-41c7-b8ad-4104d75cd2a8.png",
+      "SourceId": "API_EventManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rasim\\source\\repos\\API EventManagement\\API_EventManagement\\wwwroot\\",
+      "BasePath": "_content/API_EventManagement",
+      "RelativePath": "uploads/6958762c-78af-41c7-b8ad-4104d75cd2a8.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6958762c-78af-41c7-b8ad-4104d75cd2a8.png"
+    }
+  ]
 }
