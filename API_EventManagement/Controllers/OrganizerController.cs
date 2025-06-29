@@ -90,8 +90,6 @@ namespace API_EventManagement.Controllers
             existorganizer.LogoUrl = organizerLogo;
             eventAppDbContext.SaveChanges();
             return Ok();
-
-
         }
     }
 }

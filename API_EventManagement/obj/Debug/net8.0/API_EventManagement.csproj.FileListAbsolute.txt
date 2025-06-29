@@ -145,3 +145,4 @@ C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\ne
 C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\API_EventManagement.staticwebassets.runtime.json
 C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Rasim\source\repos\API EventManagement\API_EventManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

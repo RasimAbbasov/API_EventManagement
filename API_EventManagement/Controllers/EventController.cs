@@ -4,11 +4,13 @@ using API_EventManagement.Helpers;
 using API_EventManagement.Mappers;
 using API_EventManagement.Models;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API_EventManagement.Controllers
 {
+    [Authorize]
     public class EventController(EventAppDbContext eventAppDbContext,IMapper mapper) : BaseController
     {
         [HttpGet]
